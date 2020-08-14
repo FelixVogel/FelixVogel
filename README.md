@@ -37,10 +37,10 @@ Other than that I'm your typical at home gamer. Not a lot of action for me.
 
 I don't have much of an appearance outside. <br/> 
 
-<div style="line-height: 20px;">
+<div>
     <img alt="Icon" src="https://avatars1.githubusercontent.com/u/20129564?s=60&v=4" width="18" /> <a href="https://felixvogel.github.io/">My Website</a>
 </div>
-<div style="line-height: 20px;">
+<div>
     <img alt="Steam" src="https://raw.githubusercontent.com/FelixVogel/FelixVogel/master/images/Steam-512.png" width="18" /> <a href="https://steamcommunity.com/id/felix_vogel">My Steam</a>
 </div>
 

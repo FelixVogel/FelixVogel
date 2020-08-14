@@ -38,7 +38,7 @@ Other than that I'm your typical at home gamer. Not a lot of action for me.
 I don't have much of an appearance outside. <br/> 
 
 <img alt="Icon" src="https://avatars1.githubusercontent.com/u/20129564?s=60&v=4" width="18"></img> [My Website](https://felixvogel.github.io/) <br/>
-<img alt="Steam" src="https://github.com/FelixVogel/FelixVogel/images/Steam-512.png" width="18"></img> [My Steam](https://steamcommunity.com/id/felix_vogel)
+<img alt="Steam" src="https://raw.githubusercontent.com/FelixVogel/FelixVogel/master/images/Steam-512.png" width="18"></img> [My Steam](https://steamcommunity.com/id/felix_vogel)
 
 ---
 

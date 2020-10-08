@@ -2,7 +2,7 @@
 
 My name is Felix Vogel. <br/>
 I have a severe penguin addiction to the point that I am now making a game which revolves around a penguin. <br/>
-I am currently in the possession of 22 penguin-plushies, but the count is likely to increase.
+I am currently in the possession of 24 penguin-plushies, but the count is likely to increase.
 
 ---
 
@@ -21,34 +21,7 @@ Other than that I'm your typical at home gamer. Not a lot of action for me.
 
 ---
 
-###### Todo List
-
-* GameEngine
-    - [ ] Composite Sprite Editor
-    - [ ] Lights and Shadows
-    - [ ] Cut down some code
-    
-* My Game (Title not released *yet*)
-    - [ ] Finish Trailer
-
----
-
-###### Socials and stuff
-
-I don't have much of an appearance outside. <br/> 
-
-<div>
-    <img alt="Icon" src="https://avatars1.githubusercontent.com/u/20129564?s=60&v=4" width="18" /> <a href="https://felixvogel.github.io/">My Website</a>
-</div>
-<div>
-    <img alt="Steam" src="https://raw.githubusercontent.com/FelixVogel/FelixVogel/master/images/Steam-512.png" width="18" /> <a href="https://steamcommunity.com/id/felix_vogel">My Steam</a>
-</div>
-
----
-
 ###### Other useless stuff
 
 I can only say this about myself, when I was bored I had the urge to make useless things. So here is a few for the enjoyment for anyone:
 * [Matrix](https://felixvogel.github.io/Matrix/)
-* [Penguins](https://felixvogel.github.io/Penguins/)
-* [Parmesan Cheese](https://thepenguingroup.github.io/parmesan-cheese.org/)
